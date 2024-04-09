@@ -13,8 +13,8 @@ Projeto feito com carinho!
 
 <p align="center">
 
-  <img alt="projeto blog de fotos!" src="![image](https://github.com/gustavimm/FotoBlog/assets/104872930/7c619338-3c39-4c3f-84db-89231ba34a44)
-" width="100%">
+  ![image](https://github.com/gustavimm/FotoBlog/assets/104872930/b3b3fdc6-a5ed-4f1d-b2e3-fb4542ee5d68)
+
 
 
 
